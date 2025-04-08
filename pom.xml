@@ -98,14 +98,14 @@
 
 	</dependencies>
 
-	  <deployment>
+	<!--  <deployment>
              <server>
              <id>tomcat-manager</id>
               <url>http://65.1.133.248:8080/manager/html/text/</url>
               <username>admin</username>
               <password>admin123</password>
               </server>
-          </deployment>
+	</deployment> -->
 	
 	 <distributionManagement>
 	    <repository>
